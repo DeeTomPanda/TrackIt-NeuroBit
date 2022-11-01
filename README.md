@@ -15,7 +15,7 @@ Also uses AsyncStorage to store and retrieve Data locally!
 ```
 3)Then delete the package-lock.json or yarn.lock file<br/>
 4)Clone this repo using git<br/>
-5)Replace App.js and package.json with the cloned ones,and copy remaining clone files to <YourProjectName><br/>
+5)Replace App.js and package.json with the cloned ones,and copy remaining clone files to your project dir <br/>
 6)run
 ```sh
 yarn add

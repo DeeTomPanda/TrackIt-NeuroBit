@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/76088773/199338960-cbe6fdf6-b050-4f20-b2d1-4ddf36e6309f.mp4
+
 # TrackIt-NeuroBit
 An expense tracker built with React-Native,has the functionality to store,modify and delete records. 
 Also uses AsyncStorage to store and retrieve Data locally!
@@ -9,6 +13,10 @@ Also uses AsyncStorage to store and retrieve Data locally!
 1)Install Android Studio using <a href="https://developer.android.com/studio/index.html">this</a> <br/> 
 2)Run 
 ```sh
+
+https://user-images.githubusercontent.com/76088773/199339210-2d7ad5aa-719e-4d67-9346-afca39207a3d.mp4
+
+
  react-native init <YourProjectName>
  cd <YourProjectName>
        

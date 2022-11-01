@@ -1,10 +1,9 @@
-
-
-https://user-images.githubusercontent.com/76088773/199338960-cbe6fdf6-b050-4f20-b2d1-4ddf36e6309f.mp4
-
 # TrackIt-NeuroBit
 An expense tracker built with React-Native,has the functionality to store,modify and delete records. 
 Also uses AsyncStorage to store and retrieve Data locally!
+
+
+https://user-images.githubusercontent.com/76088773/199338960-cbe6fdf6-b050-4f20-b2d1-4ddf36e6309f.mp4
 
 
 <h1>Installation Instructions</h1>

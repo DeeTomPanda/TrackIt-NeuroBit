@@ -13,7 +13,6 @@ https://user-images.githubusercontent.com/76088773/199338960-cbe6fdf6-b050-4f20-
 2)Run 
 ```sh
 
-https://user-images.githubusercontent.com/76088773/199339210-2d7ad5aa-719e-4d67-9346-afca39207a3d.mp4
 
 
  react-native init <YourProjectName>
